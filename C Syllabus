@@ -1,0 +1,44 @@
+Week-1:
+
+1. Introduction to C
+- keywords,identifiers,varibles,constants,data types,operators, input/output
+2. Flow Controls
+- if else,loops,break,continue,switch case,goto
+3. Programs from hackerrank
+
+Week-2:
+
+1. Functions
+-user defined, recursion,examples,function types
+2. Arrays
+-single,multi
+3. Programs from hackerrank
+
+Week-3:
+
+1. Pointers
+-basics, pointers with arrays,functions,memory allocations
+2. Strings
+-functions
+3. Programs from hackerrank
+
+
+Week-4:
+
+1. Structures and unions
+-struct and functions
+2. File programs
+- file input/output
+3. Enums, standard libraries
+4. Programs from hackerrank
+
+Week-5:
+
+1. Practice problems from hackerrank 
+2. Multiple choice questions on C
+3. Intro to competitive programming from codechef
+
+Week-6:
+
+1. More focus on codechef
+2. MCQ's on C
